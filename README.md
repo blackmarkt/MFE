@@ -1,4 +1,4 @@
-Test
+The file contains an example of a currency pairs day trading model writtern in Python
 ====
 
-This is a test Repo
+Mark Black
