@@ -303,4 +303,4 @@ for i in symbols:
     data.w.to_csv(weekly, index = True)
     
 # Write probability table to csv file
-ProbTable.to_csv('historic_probabilities.csv', index = True)
+# ProbTable.to_csv('historic_probabilities.csv', index = True)
