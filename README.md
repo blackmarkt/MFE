@@ -1,4 +1,8 @@
-The file contains an example of a currency pairs day trading model writtern in Python
+This repository is intended to showcase my portfolio of quantitative trading models and research as it pertains to algorithmic trading.
+
+The intended viewers for the content is MFE programs.
+
 ====
 
-Mark Black
+Author: Mark Black
+Date: 2017
