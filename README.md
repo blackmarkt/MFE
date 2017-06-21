@@ -6,3 +6,5 @@ This repository is intended to showcase my portfolio of quantitative trading mod
 The intended viewers for the content is MFE programs.
 
 ##### Author: Mark Black
+email: blackmarkt@gmail.com
+
